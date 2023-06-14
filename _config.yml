@@ -1,0 +1,14 @@
+title: Dang Xuan Bach
+description: ""
+email: bachdx96@gmail.com
+baseurl: ""
+url: ""
+github_username:  bachdx96
+repository: bachdx96/bachdx96.github.io
+
+# Build settings
+plugins:
+  - jekyll-postcss
+
+postcss:
+  cache: false
